@@ -1,0 +1,39 @@
+.login_div1 , .login_div2
+{
+    background: white;
+    padding: 10px;
+    float: inherit;
+    border-radius: 15px;
+}
+
+
+#player1_name , #player2_name
+{
+display: inline-block;
+margin-left: 20px;
+}
+#word
+{
+width: 60%;
+}
+#word_display
+{
+letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+body{
+    background: linear-gradient(#60ebeb 50%, #27ae 75%, blue 100%)    
+}
+
+#player_1_login,#player_2_login,button{
+    box-shadow: 5px 10px 8px #339e9e ;
+}
